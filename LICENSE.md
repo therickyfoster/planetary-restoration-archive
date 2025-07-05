@@ -1,0 +1,1 @@
+Earth Use Regenerative License (EURL)
