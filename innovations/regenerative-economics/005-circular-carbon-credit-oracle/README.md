@@ -1,16 +1,10 @@
 # Innovation 005-circular-carbon-credit-oracle
 
 ## Summary
-Closed-loop oracle system that validates on-chain carbon sequestration claims using decentralized sensor input.
+A closed-loop oracle validating real-world carbon sink behaviors.
 
-## Diagrams
-- carbon-credit-oracle.png
+## Blueprint
+- See `carbon-oracle-diagram.svg`
 
 ## Script
-- validate-credit.sh
-
-## DAO Template
-- carbon-verifier.json
-
-## PDF Manual
-- carbon-oracle-guide.pdf
+- Run `validate-carbon-credit.sh` for deployment logic.

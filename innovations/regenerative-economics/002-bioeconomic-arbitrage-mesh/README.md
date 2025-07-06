@@ -1,16 +1,10 @@
 # Innovation 002-bioeconomic-arbitrage-mesh
 
 ## Summary
-Redirects crypto arbitrage profits to fund soil regeneration, carbon sinks, and real-world ecological impact.
+Redirects arbitrage profits into ecological regeneration.
 
-## Diagrams
-- arb-mesh-diagram.svg
+## Blueprint
+- See `blueprint-mesh-network.svg`
 
 ## Script
-- arb-router.py
-
-## DAO Template
-- arb-impact-dao.json
-
-## PDF Manual
-- bioeconomic-mesh-guide.pdf
+- Run `arbitrage-monitor.py` for deployment logic.

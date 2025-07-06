@@ -1,16 +1,10 @@
 # Innovation 004-debt-to-soil-engine
 
 ## Summary
-Transforms global debt contracts into ecological remediation obligations measurable via satellite soil data.
+Converts legacy financial debt into soil generation metrics via DAO.
 
-## Diagrams
-- debt-flow-conversion.svg
+## Blueprint
+- See `debt-to-soil-flowchart.svg`
 
 ## Script
-- convert-debt.py
-
-## DAO Template
-- debt-soil-contract.yaml
-
-## PDF Manual
-- debt-to-soil-engine.pdf
+- Run `convert-debt-dao.py` for deployment logic.

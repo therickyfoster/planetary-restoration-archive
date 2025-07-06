@@ -1,16 +1,10 @@
 # Innovation 003-tokenized-terra-loops
 
 ## Summary
-Land regeneration system tied to token issuance based on proof-of-growth metrics from soil and tree sensors.
+Land regeneration loop powered by proof-of-growth smart contracts.
 
-## Diagrams
-- terra-loop-structure.png
+## Blueprint
+- See `terra-loop-architecture.png`
 
 ## Script
-- deploy-terra-token.sh
-
-## DAO Template
-- terra-growth-oracle.json
-
-## PDF Manual
-- terra-loop-manual.pdf
+- Run `deploy-terra-loop.sh` for deployment logic.

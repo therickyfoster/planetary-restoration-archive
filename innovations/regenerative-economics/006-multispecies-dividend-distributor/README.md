@@ -1,16 +1,10 @@
 # Innovation 006-multispecies-dividend-distributor
 
 ## Summary
-Pays regenerative DAOs dividends based on ecosystem service metrics tracked by AI and drones.
+Rewards rewilding efforts by issuing dividends to local DAOs.
 
-## Diagrams
-- dividend-network-map.svg
+## Blueprint
+- See `dividend-distributor-system.png`
 
 ## Script
-- distribute-dividends.py
-
-## DAO Template
-- dividend-dao-config.json
-
-## PDF Manual
-- multispecies-dividends.pdf
+- Run `distribute-rewards.py` for deployment logic.
