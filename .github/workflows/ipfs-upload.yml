@@ -1,0 +1,22 @@
+name: Upload to IPFS on Push
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Install Web3.Storage CLI
+      run: |
+        npm install -g web3.storage
+
+    - name: Upload to Web3.Storage
+      env:
+        WEB3_STORAGE_TOKEN: ${{ secrets.WEB3_STORAGE_TOKEN }}
+      run: |
+        web3.storage put ./ --recursive --name "Planetary Restoration OS - $(date +%Y-%m-%d)"
