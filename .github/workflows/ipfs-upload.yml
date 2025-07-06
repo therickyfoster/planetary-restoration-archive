@@ -19,4 +19,4 @@ jobs:
       env:
         WEB3_STORAGE_TOKEN: ${{ secrets.WEB3_STORAGE_TOKEN }}
       run: |
-        web3.storage put ./ --recursive --name "Planetary Restoration OS - $(date +%Y-%m-%d)"
+        web3.storage put ./ --recursive --name "Planetary Restoration Archive - $(date +%Y-%m-%d)"
