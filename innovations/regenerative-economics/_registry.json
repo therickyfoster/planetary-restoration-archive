@@ -1,0 +1,22 @@
+{
+  "bundle": "Regenerative Economics Megabundle #001 (Full)",
+  "category": "regenerative-economics",
+  "includes": [
+    "001-atmospheric-carbon-weaver",
+    "002-bioeconomic-arbitrage-mesh",
+    "003-tokenized-terra-loops",
+    "004-debt-to-soil-engine",
+    "005-circular-carbon-credit-oracle",
+    "006-multispecies-dividend-distributor"
+  ],
+  "format": [
+    "README.md (2–5 pages)",
+    "Diagrams (1–3 per innovation)",
+    "Code/scripts",
+    "DAO config templates",
+    "PDF manuals"
+  ],
+  "termux_ready": true,
+  "nft_storage_ready": true,
+  "version": "v2.1"
+}
