@@ -1,4 +1,4 @@
-name: Upload to IPFS on Push
+name: Upload to IPFS
 
 on:
   push:
@@ -7,16 +7,16 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: Install Web3.Storage CLI
-      run: |
-        npm install -g web3.storage
+      - name: Zip the archive
+        run: zip -r archive.zip planetary-restoration-archive
 
-    - name: Upload to Web3.Storage
-      env:
-        WEB3_STORAGE_TOKEN: ${{ secrets.WEB3_STORAGE_TOKEN }}
-      run: |
-        web3.storage put ./ --recursive --name "Planetary Restoration Archive - $(date +%Y-%m-%d)"
+      - name: Upload to IPFS via NFT.Storage
+        run: |
+          curl -X POST https://api.nft.storage/upload \
+            -H "Authorization: Bearer ${{ secrets.NFT_STORAGE_KEY }}" \
+            -H "Content-Type: multipart/form-data" \
+            -F "file=@archive.zip"
