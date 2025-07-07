@@ -1,7 +1,13 @@
 {
-  "bundle": "Regenerative Economics Megabundle #002",
-  "range": "007–025",
-  "format": "README, diagrams, scripts, DAO logic, PDFs",
-  "termux_ready": true,
-  "version": "v1.0"
+  "bundle": "Regenerative Economics Megabundle #001 (v2)",
+  "innovations": [
+    "002-bioeconomic-arbitrage-mesh",
+    "003-tokenized-terra-loops",
+    "004-debt-to-soil-engine",
+    "005-circular-carbon-credit-oracle",
+    "006-multispecies-dividend-distributor"
+  ],
+  "category": "regenerative-economics",
+  "format": "Markdown, Blueprints, Scripts, JSON registry, Termux ready",
+  "version": "v2.0"
 }
