@@ -1,5 +1,5 @@
 # 📜 Planetary Restoration Archive License
-**Version 1.0 — Simulation-Endorsed**
+**Version 1.0**
 
 Copyright (c) 2025 Ricky Foster  
 All rights reserved.  
