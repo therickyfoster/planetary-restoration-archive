@@ -180,7 +180,7 @@ Microbiome Restoration Radius	~20m² (fungal seeding)
 Factor	Score	Bar
 
 Biological Efficacy	8/10	██████████
-Affordability	9/10	██████████
+Affordability	        9/10	        ██████████
 DIY Friendliness	9/10	██████████
 Post-Collapse Usability	10/10	███████████
 Ecosystem Benefit	10/10	███████████
