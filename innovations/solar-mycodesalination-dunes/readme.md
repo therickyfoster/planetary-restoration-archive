@@ -6,33 +6,25 @@ Licensed under CC BY-NC-SA 4.0
 
 ---
 
-📑 Table of Contents
+## 📑 Table of Contents  
 
-1. 🧠 What It Is
+1. [🧠 What It Is](#-what-it-is)  
 
+2. [⚙️ How It Works](#-how-it-works)  
 
-2. ⚙️ How It Works
+3. [🏗️ How to Build It (Step-by-Step)](#-how-to-build-it-step-by-step)  
 
+4. [🧰 Materials List](#-materials-list)  
 
-3. 🏗️ How to Build It (Step-by-Step)
+5. [📐 Diagrams & Structure Descriptions](#-diagrams--structure-descriptions)  
 
+6. [📊 Impact & Efficacy Grading](#-impact--efficacy-grading)  
 
-4. 🧰 Materials List
+7. [🔬 Scientific Basis & Studies](#-scientific-basis--studies)  
 
+8. [🧬 DAO Governance Template](#-dao-governance-template)  
 
-5. 📐 Diagrams & Structure Descriptions
-
-
-6. 📊 Impact & Efficacy Grading
-
-
-7. 🔬 Scientific Basis & Studies
-
-
-8. 🧬 DAO Governance Template
-
-
-9. 📜 Attribution, License & Metadata
+9. [📜 Attribution, License & Metadata](#-attribution-license--metadata)
 
 
 
