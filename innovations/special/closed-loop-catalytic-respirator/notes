@@ -1,0 +1,117 @@
+Here's a fully optimized prompt-style design brief for use in Onshape (or to share with any CAD-savvy collaborator). Since Onshape isn’t prompt-based, this is meant to guide the actual modeling steps inside the app.
+
+
+---
+
+🔧 📐 Onshape Modeling Prompt
+
+Project Name: Closed-Loop Catalytic Respirator™
+
+🧠 Objective:
+
+Design a compact, ergonomic respirator with dual airflow channels — one for purified air intake and another for catalyzed exhalation. The goal is to create a re-circulating filtration system that processes both inhaled and exhaled air.
+
+
+---
+
+✅ Core Design Specifications:
+
+1. Outer Shell (Face Mask Body)
+
+Ergonomically shaped to cover nose and mouth
+
+Use spline or loft to create contoured surface
+
+Wall thickness: 2–3 mm
+
+Include chin and nose curve for secure seal
+
+
+2. Air Inlet Path
+
+Side-mounted air intake chambers
+
+Slot size for filters: 30mm x 30mm x 5mm
+
+Layers:
+
+Activated carbon
+
+Catalytic mesh (metal)
+
+Mycelium-infused medium (straw substrate)
+
+
+
+3. Exhale Path
+
+One-way silicon flap valve
+
+Exhale port diameter: 19mm
+
+Channel leads to catalytic ceramic bed or micro-reactor chamber
+
+Option for body-heat-driven airflow or solar Peltier heating add-on
+
+
+4. Filter Cartridge Bays
+
+Snap-in filter cartridges (x2–3)
+
+Gasket rim on edges for air-tight sealing
+
+
+5. Strap Attachment Points
+
+2–4 anchor holes for elastic/Velcro straps
+
+Diameter: 5mm
+
+Position around mask periphery
+
+
+6. Optional Features
+
+QR code patch mount (flat area 25x25mm)
+
+LED or sensor housing near intake (optional, placeholder)
+
+
+
+---
+
+💾 File Exports (once modeled):
+
+.STL for respirator shell
+
+.STL for modular filter cartridge
+
+.DXF of any 2D outlines for laser cutting (e.g. filter grid)
+
+
+
+---
+
+🛠️ Workflow Hints in Onshape:
+
+Use Part Studio to build the shell in one parametric body
+
+Create Assembly with valve, filters, and straps as separate parts
+
+Use sketches to define filter cavities and breathing chamber
+
+Use Shell, Loft, Extrude Cut, and Mate constraints as needed
+
+
+
+---
+
+Would you like me to:
+
+Create a starter Onshape sketch set (.dxf or .partstudio)?
+
+Run the same structure through Leonardo or Meshy for component-by-component visual outputs?
+
+
+Once the first image finishes rendering, we can overlay Onshape instructions onto it for ultra-fast modeling.
+
