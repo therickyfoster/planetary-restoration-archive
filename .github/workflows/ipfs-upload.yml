@@ -1,22 +1,37 @@
-name: Upload to IPFS
+name: ♻️ Upload to IPFS via NFT.Storage
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+    paths:
+      - 'planetary-restoration-archive/**'
 
 jobs:
-  upload:
+  upload-to-ipfs:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
+      - name: 🧬 Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Zip the archive
-        run: zip -r archive.zip planetary-restoration-archive
+      - name: 🗂️ List files for debug
+        run: ls -lah
 
-      - name: Upload to IPFS via NFT.Storage
+      - name: 📦 Zip the archive folder
+        run: |
+          cd $GITHUB_WORKSPACE
+          zip -r archive.zip planetary-restoration-archive
+
+      - name: 📡 Upload to NFT.Storage
+        env:
+          NFT_STORAGE_API_KEY: ${{ secrets.NFT_STORAGE_API_KEY }}
         run: |
           curl -X POST https://api.nft.storage/upload \
-            -H "Authorization: Bearer ${{ secrets.NFT_STORAGE_KEY }}" \
-            -H "Content-Type: multipart/form-data" \
-            -F "file=@archive.zip"
+            -H "Authorization: Bearer $NFT_STORAGE_API_KEY" \
+            -H "Content-Type: application/zip" \
+            --data-binary @archive.zip \
+            --fail \
+            | jq
+
+      - name: ✅ Done
+        run: echo "Upload complete. Check above for CID."
