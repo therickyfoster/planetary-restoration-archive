@@ -1,4 +1,4 @@
-name: Upload to IPFS on Push
+name: Upload to IPFS on Push (nft.storage)
 
 on:
   push:
@@ -11,12 +11,16 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
 
-    - name: Install Web3.Storage CLI
-      run: |
-        npm install -g web3.storage
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
 
-    - name: Upload to Web3.Storage
+    - name: Install nft.storage CLI
+      run: npm install -g nft.storage
+
+    - name: Upload to nft.storage
       env:
-        WEB3_STORAGE_TOKEN: ${{ secrets.WEB3_STORAGE_TOKEN }}
+        NFT_STORAGE_TOKEN: ${{ secrets.NFT_STORAGE_TOKEN }}
       run: |
-        web3.storage put ./ --recursive --name "Planetary Restoration Archive - $(date +%Y-%m-%d)"
+        nft.storage upload ./ --recursive --name "Planetary Restoration Archive - $(date +%Y-%m-%d)"
