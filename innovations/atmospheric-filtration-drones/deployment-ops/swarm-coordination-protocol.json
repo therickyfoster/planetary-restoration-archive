@@ -1,0 +1,49 @@
+{
+  "protocol_version": "1.0.2",
+  "swarm_identity": {
+    "swarm_id": "AFDS-ALPHA-001",
+    "mission_type": "filtration",
+    "region_code": "urban-core-dense",
+    "dao_sync": true
+  },
+  "comms": {
+    "heartbeat_interval_sec": 15,
+    "max_latency_ms": 300,
+    "encryption": "AES-256",
+    "fallback_channel": "LoRa-mesh"
+  },
+  "swarm_logic": {
+    "formation_type": "adaptive-grid",
+    "collision_avoidance": true,
+    "distance_buffer_meters": 5,
+    "dynamic_repositioning": true,
+    "hover_zone_logic": "density-aware",
+    "fallback_behavior": "RTB-on-signal-loss"
+  },
+  "filter_density_strategy": {
+    "mode": "responsive-load-balancing",
+    "pollutant_thresholds": {
+      "PM2.5": 25,
+      "NO2": 40,
+      "VOC": 0.5
+    },
+    "priority_regions": ["school-zones", "traffic-intersections"]
+  },
+  "telemetry": {
+    "data_streams": [
+      "location",
+      "air_quality_in",
+      "air_quality_out",
+      "battery",
+      "filter_status",
+      "swarm_neighbors"
+    ],
+    "upload_interval_sec": 60,
+    "data_handoff": "DAO-layer-encrypted-batch"
+  },
+  "emergency": {
+    "override_trigger": "DAO-global-command",
+    "autonomous_fallback": "land-safe",
+    "manual_control_allowed": true
+  }
+}
