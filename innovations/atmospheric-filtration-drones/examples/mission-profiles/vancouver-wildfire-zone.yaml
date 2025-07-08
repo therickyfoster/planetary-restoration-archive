@@ -1,0 +1,28 @@
+# 🌲 Vancouver Wildfire Zone - Air Filtration Mission
+
+mission_id: vancouver_fire_suppression_001
+region: British Columbia, Canada
+coordinates:
+  lat: 49.2827
+  lon: -123.1207
+altitude_range: [50, 120]  # meters AGL
+
+objectives:
+  - "Reduce PM2.5 concentration > 75 μg/m³ to below 35 μg/m³ in 48h"
+  - "Log sensor data every 10 min"
+  - "Deploy only solar-optimized drones for 12h/day daylight filtering"
+
+swarm_preset: 
+  logic_template: wildfire-smog-mode-v1
+  sync_interval_min: 15
+  sync_conflict_resolution: majority_hash
+  fallback_behavior: "land and hold pattern if comms lost > 10m"
+
+incident_triggers:
+  - PM2.5 > 100 μg/m³ → DAO Red Alert
+  - GPS spoof signal detected → enter geofenced hover
+
+schedule:
+  start: 2025-08-01T06:00:00Z
+  end: 2025-08-03T06:00:00Z
+  runtime_hours_per_day: 12
