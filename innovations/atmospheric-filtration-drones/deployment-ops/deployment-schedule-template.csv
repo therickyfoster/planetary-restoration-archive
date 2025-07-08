@@ -1,0 +1,6 @@
+Mission ID,Region,Start Time,End Time,Swarm Size,Filter Type,Recharge Window (UTC),Maintenance Crew ID,DAO Sync Enabled
+M-001,Urban Core A,2025-08-01T06:00Z,2025-08-01T18:00Z,1000,Hybrid,18:30-20:00,Crew-17,True
+M-002,Industrial Belt W,2025-08-01T07:00Z,2025-08-01T19:00Z,800,Carbon,19:15-20:45,Crew-09,True
+M-003,Coastal Line 4,2025-08-01T05:30Z,2025-08-01T17:30Z,1200,Mycelium,18:00-19:30,Crew-23,False
+M-004,Forest Edge NE,2025-08-02T08:00Z,2025-08-02T20:00Z,600,Hybrid,20:15-21:30,Crew-04,True
+M-005,Mountain Valley,2025-08-02T06:30Z,2025-08-02T18:30Z,500,Hybrid,19:00-20:00,Crew-14,True
