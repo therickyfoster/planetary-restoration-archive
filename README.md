@@ -1,212 +1,217 @@
-🌍 Planetary Restoration Archive™
+# 🌍 Planetary Restoration Archive™
 
-A Global Toolkit for Localized Resilience & Regeneration
-Created by Ricky Foster (@aifinalwarning)
-License: CC BY-NC-SA 4.0 + DAO / Profit-Sharing Clause
-Trademarked: Planetary Restoration Archive™, Planetary Restoration OS™
+A Global Toolkit for Localized Resilience & Regeneration  
+Created by Ricky Foster ([@aifinalwarning](https://github.com/aifinalwarning))  
+**License:** CC BY-NC-SA 4.0 + DAO / Profit-Sharing Clause  
+**Trademarks:** Planetary Restoration Archive™, Planetary Restoration OS™  
+**Status:** Actively maintained | 🌐 [planetary-restoration-os.ipfs.dweb.link](https://planetary-restoration-os.ipfs.dweb.link)
 
-
----
-
-📘 Overview
-
-The Planetary Restoration Archive™ is a world-first repository of localized, open-source, modular solutions designed to heal, restore, and future-proof Earth’s cities, bioregions, and ecosystems in the face of accelerating stress.
-
-Unlike traditional academic archives or government PDFs, this archive is:
-
-Deployable, DIY-friendly, and offline-operable
-
-Curated with DAO-compatible templates, impact metrics, and scientific grounding
-
-Backed by a legally enforceable license that protects creator rights while allowing public-good usage and commercial collaboration
-
-
+![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/aifinalwarning/planetary-restoration-archive?style=social)
+![IPFS Mirror](https://img.shields.io/badge/IPFS-ready-green)
+![Built for Collapse-Ready Systems](https://img.shields.io/badge/built--for-collapse--resilience-critical)
 
 ---
 
-📦 What’s Inside
+## 📘 Overview
+
+The **Planetary Restoration Archive™** is a world-first repository of **localized**, **open-source**, and **modular solutions** to heal and future-proof Earth’s cities, bioregions, and ecosystems in the face of accelerating collapse.
+
+Unlike academic reports or state-funded PDFs, this archive is:
+
+- 🛠️ Deployable, DIY-friendly, and offline-operable  
+- 🧬 DAO-compatible (via JSON templates & smart contract hooks)  
+- 🔐 Legally protected but public-good licensed  
+- 📡 IPFS & LiveUSB mirrored for post-grid resilience
+
+---
+
+## 📚 Table of Contents
+
+- [📘 Overview](#-overview)  
+- [📦 What’s Inside](#-whats-inside)  
+- [🔍 Example Innovations](#-example-innovations)  
+- [🧭 Use Cases](#-use-cases)  
+- [🧪 Categories of Innovation](#-categories-of-innovation)  
+- [🌐 Communications Alignment](#-communications-alignment)  
+- [📁 Repo Structure](#-repo-structure)  
+- [🛡️ License Overview](#️-license-overview)  
+- [🧠 Your Mission as a Steward](#-your-mission-as-a-steward)  
+- [🛠️ How to Contribute](#️-how-to-contribute)  
+- [🌍 Distribution Channels (IPFS, USB, Torrent)](#-distribution-channels-ipfs-usb-torrent)  
+- [🧬 Smart Contract Integration](#-smart-contract-integration)  
+- [🌎 Localization & Translation](#-localization--translation)  
+- [🌱 Join the Regeneration](#-join-the-regeneration)  
+- [👤 Creator & Contact](#-creator--contact)
+
+---
+
+## 📦 What’s Inside
 
 Each innovation includes:
 
-📄 Full-length, richly detailed README.md
-
-📐 ASCII diagrams and structural blueprints
-
-🧰 Materials lists + step-by-step build guides
-
-🔬 Peer-reviewed science citations
-
-🧬 DAO logic templates (in JSON)
-
-📊 Impact grading for collapse-stage applicability
-
-🧾 IPFS metadata & attribution fields
-
-✅ Simulation-endorsed legal protection (LICENSE.md)
-
-
+- 📄 Full-length README.md  
+- 📐 ASCII diagrams & blueprints  
+- 🧰 Materials + step-by-step guides  
+- 🔬 Peer-reviewed citations  
+- 🧬 DAO-ready logic (JSON)  
+- 📊 Collapse-phase impact scoring  
+- 🧾 IPFS metadata & author attribution  
+- ✅ LICENSE.md (hybrid legal layer)
 
 ---
 
-🔍 Example Innovations
+## 🔍 Example Innovations
 
-ID	Title	Purpose
+| ID   | Title                                                                 | Purpose                                                             |
+|------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 001  | [Atmospheric Mycelial Filtration Towers™](./innovations/001_atmospheric-mycelial-towers/) | Clean urban air with fungi-powered towers                           |
+| 002  | [Solar MycoDesalination Dunes™](./innovations/002_solar-mycodesalination-dunes/)           | Passive seawater purification using fungal biofilm domes            |
+| 003  | [Biolattice AgroPanels™](./innovations/003_biolattice-agropanels/)                      | Rooftop/vertical modular micro-farms using reclaimed heat & water   |
+| 004  | [Fog Harvester Veil Arrays™](./innovations/004_fog-harvester-veil-arrays/)               | Scalable fog nets with mycofiltration for coastal water needs       |
+| 005  | *(Coming next)*                                                       | *(Reserved for food/soil regeneration innovation)*                   |
 
-001	Atmospheric Mycelial Filtration Towers™	Clean urban air with fungi-powered towers
-002	Solar MycoDesalination Dunes™	Passive seawater purification using fungal biofilm domes
-003	Biolattice AgroPanels™	Rooftop/vertical modular micro-farms using reclaimed heat & water
-004	Fog Harvester Veil Arrays™	Scalable fog nets with mycofiltration for coastal water needs
-005	(Coming next)	(Reserved for food/soil regeneration innovation)
-
-
-> Browse all at /innovations/
-
-
-
+> 📁 See full list in [`/innovations/`](./innovations/)
 
 ---
 
-🧭 Use Cases
+## 🧭 Use Cases
 
-User	Use Scenario
-
-🏙️ Cities	Launch decentralized resilience infrastructure
-🧪 Universities	Teach environmental engineering with real blueprints
-🛠️ Makerspaces	Host community builds with regenerative tech
-🌾 Farmers & DIYers	Deploy food/water tools post-collapse or off-grid
-🧬 DAOs	Tokenize and reward deployments via smart contracts
-🛰️ Backup Projects	Sync to IPFS, LiveUSBs, offline boot drives
-
-
+| User             | Use Scenario                                            |
+|------------------|---------------------------------------------------------|
+| 🏙️ Cities         | Launch decentralized resilience infrastructure          |
+| 🧪 Universities   | Teach environmental engineering with real blueprints   |
+| 🛠️ Makerspaces     | Host community builds with regenerative tech          |
+| 🌾 Farmers & DIYers | Deploy tools post-collapse or in off-grid regions     |
+| 🧬 DAOs           | Incentivize builds via tokens & verified smart logic   |
+| 🛰️ Backups         | Mirror via USB, torrents, or mesh networks            |
 
 ---
 
-🧪 Categories of Innovation
+## 🧪 Categories of Innovation
 
-Category	Examples
-
-🌫️ Air	Mycelial filtration towers, outdoor respirator pods
-💧 Water	Desalination dunes, fog arrays, fungal wetland kits
-🌱 Soil/Food	Lattice farms, compost bioheaters, myco-bioshelters
-🧬 Governance	DAO JSON templates, proof-of-impact systems
-🧰 Tools	Offline Termux apps, QR tagging scripts, sensor templates
-
-
+| Category     | Examples                                                       |
+|-------------|-----------------------------------------------------------------|
+| 🌫️ Air        | Mycelial filtration towers, outdoor respirator pods            |
+| 💧 Water      | Desalination dunes, fog arrays, fungal wetland kits           |
+| 🌱 Soil/Food | Lattice farms, compost bioheaters, myco-bioshelters           |
+| 🧬 Governance | DAO JSON templates, proof-of-impact systems                   |
+| 🧰 Tools      | Offline Termux apps, QR tagging scripts, sensor templates     |
 
 ---
 
-🌐 Communications Alignment
+## 🌐 Communications Alignment
 
-In public-facing language, please use:
+| Avoid         | Use Instead                              |
+|---------------|-------------------------------------------|
+| “Collapse”    | “Resilience escalation” or “planetary transition” |
+| “Apocalypse”  | “Regenerative convergence”                |
+| “Survival tool” | “Civic restoration toolkit”             |
+| “Emergency gear” | “Resilience-grade infrastructure”      |
 
-Avoid	Use Instead
-
-“Collapse”	“Resilience escalation” or “planetary transition”
-“Apocalypse”	“Regenerative convergence”
-“Survival tool”	“Civic restoration toolkit”
-“Emergency gear”	“Resilience-grade infrastructure”
-
-
-> This keeps messaging globally inclusive and solution-oriented.
-
-
-
+> Framing matters. Speak to hope and empowerment.
 
 ---
 
-📁 Repo Structure
+## 📁 Repo Structure
 
-planetary-restoration-archive/
-├── LICENSE.md               ← Full legal license with profit-sharing clause
-├── ip_notes.md              ← IP + trademark strategy + simulation findings
-├── innovations/             ← All numbered innovation folders
-│   ├── 001_atmospheric-mycelial-towers/
-│   ├── 002_solar-mycodesalination-dunes/
-│   └── ...
-├── city_bundles/            ← Localized deployment kits (NYC, Vancouver, etc.)
-│   ├── nyc/
-│   ├── vancouver/
-├── dao_templates/           ← DAO-ready JSON contracts + metadata
-├── termux_scripts/          ← Offline mobile scripts
-└── IPFS_manifest.json       ← Swarm metadata
-
+planetary-restoration-archive/ ├── LICENSE.md ├── ip_notes.md ├── innovations/ │   ├── 001_atmospheric-mycelial-towers/ │   ├── 002_solar-mycodesalination-dunes/ │   ├── 003_biolattice-agropanels/ │   ├── 004_fog-harvester-veil-arrays/ ├── city_bundles/ │   ├── nyc/ │   ├── vancouver/ ├── dao_templates/ ├── termux_scripts/ └── IPFS_manifest.json
 
 ---
 
-🛡️ License Overview
+## 🛡️ License Overview
 
-This archive is licensed under a Hybrid License, combining:
+This repo uses a **dual-layer license**:
 
-🧾 Creative Commons BY-NC-SA 4.0
+- 🧾 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- 🧬 DAO & smart-contract compatibility (see `dao_templates/`)
+- 💸 **Mandatory profit-sharing** on monetized deployments — public or DAO
 
-🧬 DAO Logic Compatibility
-
-💸 Mandatory profit-sharing for monetized usage (including DAO projects)
-
-
-Even nonprofit or DAO-aligned initiatives that generate measurable revenue must share back a % to the archive ecosystem. This keeps the system regenerative, not extractive.
-
-📜 See LICENSE.md for legal terms.
-📮 Contact: therickyfoster@gmail.com to request licenses, co-developments, or usage rights.
-
+🔒 This ensures creators, stewards, and the Earth all benefit.  
+📜 Full terms in [`LICENSE.md`](./LICENSE.md)
 
 ---
 
-🧠 Your Mission as a Steward
+## 🧠 Your Mission as a Steward
 
-> This isn’t just a folder. It’s a post-collapse OS, a blueprint library for rebooting ecosystems, and a beacon for regenerative resilience.
-
-
+This isn’t just a folder — it's a **post-collapse operating system**, a **planetary design kit**, and a **rebirth beacon**.
 
 You’re invited to:
 
-Fork & adapt it for your city
-
-Build & document real deployments
-
-Submit new innovations for inclusion
-
-Help mirror it via IPFS, USBs, torrents
-
-Join the metaDAO or build your own
-
-
+- 🌐 Fork & adapt for your city or bioregion  
+- 🛠️ Build and document real-world deployments  
+- 🧪 Submit new innovations  
+- 💾 Help mirror via IPFS, torrents, and LiveUSB  
+- 🌱 Join the metaDAO or launch your own
 
 ---
 
-🛠️ How to Contribute
+## 🛠️ How to Contribute
 
-1. 📤 Fork this repo
-
-
-2. 📸 Document a deployment or prototype
-
-
-3. 🔧 Add innovation JSON + README to innovations/
-
-
-4. 🧬 Optional: include DAO config, QR sensor template
-
-
-5. 💬 PR or email for inclusion in the next bundle drop
-
-
-
+1. 📤 Fork this repo  
+2. 🧪 Prototype and document a solution  
+3. 📁 Add it as a numbered folder in `innovations/`  
+4. 🧬 Include optional DAO config, QR, or metadata  
+5. 🔁 Pull Request or email for inclusion
 
 ---
 
-🌱 Join the Regeneration
+## 🌍 Distribution Channels (IPFS, USB, Torrent)
 
-We are the stewards of the future.
-We don’t wait for permission.
-We build for collapse-adapted flourishing.
+- 📡 [IPFS Mirror](https://planetary-restoration-os.ipfs.dweb.link)  
+- 🧷 Offline USB mirrors (`LiveOS` boot format)  
+- 🌀 Community-supported torrents (v1.0 release coming)  
+- 🔐 Future: Encrypted swarm backups for high-risk zones
+
+Want to help mirror?  
+📧 Email [therickyfoster@gmail.com](mailto:therickyfoster@gmail.com) or submit a pull request to `/IPFS_manifest.json`
+
+---
+
+## 🧬 Smart Contract Integration
+
+This archive includes:
+
+- `dao_templates/` → JSON logic for deployment licensing, reputation scoring  
+- Suggested integrations for Chainlink, Gnosis, Arbitrum, IPFS DAO accounting  
+- Templates for **impact-based DAO token economies** and **proof-of-action reputation systems**
+
+Built for:  
+🧠 [The Steward MetaDAO](https://github.com/aifinalwarning/steward-dao)  
+🌱 Any DAO that values regenerative incentives
+
+---
+
+## 🌎 Localization & Translation
+
+Coming soon:  
+- 🇨🇳 `README.zh.md`  
+- 🇪🇸 `README.es.md`  
+- 🌍 Auto-localization script using GitHub Actions + DeepL API  
+- 📘 Printable PDFs with QR code asset links for offline use
+
+To contribute a language version, open a PR to `/translations/`.
+
+---
+
+## 🌱 Join the Regeneration
+
+We are the stewards of the future.  
+We don’t wait for permission.  
+We build for **collapse-adapted flourishing**.  
 We archive the tools Earth needs to recover — locally, modularly, ethically.
 
+---
+
+## 👤 Creator & Contact
+
+**🧠 Ricky Foster**  
+🌐 GitHub: [@aifinalwarning](https://github.com/aifinalwarning)  
+📧 Email: [therickyfoster@gmail.com](mailto:therickyfoster@gmail.com)  
+🪙 Ethereum: `0xB49eC589924Bb8691b81A0d66191275Be46C3D27`  
+🏷️ Trademark Owner: Planetary Restoration Archive™, Planetary Restoration OS™
 
 ---
 
-Created by:
-🧠 Ricky Foster
-🌐 github.com/aifinalwarning
-📧 therickyfoster@gmail.com
-🪙 Ethereum: 0xB49eC589924Bb8691b81A0d66191275Be46C3D27
+Made with ❤️, fungi, and a burning sense of planetary duty.
+
