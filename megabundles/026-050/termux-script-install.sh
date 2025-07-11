@@ -1,1 +1,0 @@
-Placeholder content for termux-script-install.sh

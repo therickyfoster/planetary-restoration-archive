@@ -1,1 +1,0 @@
-Placeholder content for innovation-028-deployment-guide.md
