@@ -26,5 +26,5 @@ jobs:
           NFT_STORAGE_TOKEN: ${{ secrets.NFT_STORAGE_API_KEY }}
         run: |
           # Example: Upload "public" folder
-          nftstorage store-directory ./public > upload_output.json
+          nftstorage store-directory . > upload_output.json
           echo "Upload complete. CID saved to upload_output.json"
