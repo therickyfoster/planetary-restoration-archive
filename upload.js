@@ -1,21 +1,20 @@
 import { NFTStorage } from 'nft.storage';
 import { filesFromPaths } from 'files-from-path';
-import globby from 'globby';
+import { globby } from 'globby'; // ✅ FIXED
+import path from 'path';
 
 async function main() {
   const paths = await globby([
-    'public/**',           // Only upload the "public" folder
-    '!public/**/*.map',    // (Optional) exclude sourcemaps
-    '!public/**/.DS_Store' // (Optional) exclude junk files
+    'public/**',
+    '!public/**/*.map',
+    '!public/**/.DS_Store'
   ]);
 
   const files = await filesFromPaths(paths);
 
-  const client = new NFTStorage({
-    token: process.env.NFT_STORAGE_API_TOKEN
-  });
-
+  const client = new NFTStorage({ token: process.env.NFT_STORAGE_API_TOKEN });
   const cid = await client.storeDirectory(files);
+
   console.log('✅ Uploaded folder with CID:', cid);
 }
 
