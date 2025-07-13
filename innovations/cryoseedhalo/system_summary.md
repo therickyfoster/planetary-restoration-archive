@@ -1,0 +1,2 @@
+# System Summary
+CryoSeedHalo is a high-altitude microburst ring that disperses cryogenically preserved seeds and spores inside self-regulating gel spheres. Triggered over burned or barren regions, these halos deliver layered reforestation payloads designed to unlock over time in sync with rainfall, soil contact, and temperature thresholds.

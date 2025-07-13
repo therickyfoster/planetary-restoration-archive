@@ -1,0 +1,13 @@
+{
+  "project_name": "ViraBloom",
+  "author": "Symbiote001 + Navi",
+  "version": "1.0.0",
+  "timestamp": "2025-07-13T19:23:01.350213Z",
+  "ipfs_hash": "<to-be-filled>",
+  "license": "Healing Use License (Non-Exclusive, Global)",
+  "linked_assets": [
+    "README.md",
+    "blueprints/virabloom_pod_design.stl",
+    "hardware/bill_of_materials.csv"
+  ]
+}

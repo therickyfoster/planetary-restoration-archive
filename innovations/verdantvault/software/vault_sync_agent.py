@@ -1,0 +1,1 @@
+# Syncs local pod metadata with global repositories and initiates extraction events

@@ -1,0 +1,13 @@
+{
+  "project_name": "VerdantVault",
+  "author": "Symbiote001 + Navi",
+  "version": "1.0.0",
+  "timestamp": "2025-07-13T19:33:13.474154Z",
+  "ipfs_hash": "<to-be-filled>",
+  "license": "Global Biodiversity Preservation License",
+  "linked_assets": [
+    "README.md",
+    "blueprints/verdantvault_core_unit.stl",
+    "hardware/bill_of_materials.csv"
+  ]
+}

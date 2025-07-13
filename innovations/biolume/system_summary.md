@@ -1,0 +1,2 @@
+# System Summary
+BioLume is a bio-integrated lighting system that uses engineered algae and fungi to generate natural light. It synchronizes with circadian rhythms and requires no electricity once activated, making it ideal for grid-free living or regenerative architecture.

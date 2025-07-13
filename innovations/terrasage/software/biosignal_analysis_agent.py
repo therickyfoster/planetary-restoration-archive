@@ -1,0 +1,1 @@
+# AI to decode rootwave and soil signal patterns to trigger release

@@ -1,0 +1,13 @@
+{
+  "project_name": "PyroRootCapsule",
+  "author": "Symbiote001 + Navi",
+  "version": "1.0.0",
+  "timestamp": "2025-07-13T19:43:59.192975Z",
+  "ipfs_hash": "<to-be-filled>",
+  "license": "MIT + Healing Use Clause",
+  "linked_assets": [
+    "README.md",
+    "blueprints/pyro_capsule_chamber.stl",
+    "hardware/bill_of_materials.csv"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "RootWeaver",
+  "description": "A biomimetic underground lattice system that connects roots across dry zones to redistribute water and nutrients in degraded ecosystems.",
+  "system_summary_path": "system_summary.md",
+  "blueprints_folder": "blueprints/",
+  "hardware_docs": "hardware/bill_of_materials.csv",
+  "software_entry": "software/growth_monitor.py",
+  "modeling_results": "modeling/simulation_results.csv",
+  "policy_documents": [
+    "policy_legal/legal.md"
+  ],
+  "ipfs_metadata": "ipfs/metadata.json",
+  "related": [
+    "EcoDraft",
+    "SkyWeave",
+    "Atmospheric Filtration Drone Swarm"
+  ],
+  "status": "prototype_ready",
+  "public": true,
+  "last_updated": "2025-07-13"
+}

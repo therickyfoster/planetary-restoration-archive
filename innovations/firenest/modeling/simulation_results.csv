@@ -1,0 +1,4 @@
+Time (min),Temp (°C),Alert Trigger
+0,22,No
+10,38,No
+20,58,Yes

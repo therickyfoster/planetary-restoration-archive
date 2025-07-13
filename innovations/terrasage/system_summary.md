@@ -1,0 +1,2 @@
+# System Summary
+TerraSage is a biosensing, root-implantable nanohydrogel system that listens to the electrical and chemical signals of degraded soils and plants. Once deployed, it releases targeted microdoses of nutrients, microbial agents, or mycorrhizal spores to restore root health, regenerate underground ecosystems, and harmonize local biome rhythms.

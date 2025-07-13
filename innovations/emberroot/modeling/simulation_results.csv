@@ -1,0 +1,4 @@
+Time (min),Soil Temp (°C),Ignition Risk
+0,35,0.01
+15,65,0.30
+30,90,0.80

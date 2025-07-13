@@ -1,0 +1,1 @@
+# Controls activation of gel/mist dispersal on temperature spike detection

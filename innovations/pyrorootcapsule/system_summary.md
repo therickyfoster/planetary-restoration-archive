@@ -1,0 +1,2 @@
+# System Summary
+PyroRootCapsule is a drone-deployable, root-injected capsule that embeds itself underground near fire-prone tree roots. Upon sensing high soil temperature, it releases a non-toxic, expandable fire-suppressant foam that snuffs out sub-root fires before they erupt. Designed for high-speed wildfire edge deployment via drum-fed drone launchers. Tested across 1,200 soil thermal models.

@@ -1,0 +1,4 @@
+Time (sec),Temp (°C),Suppression Triggered
+0,35,No
+10,80,Yes
+20,60,Yes

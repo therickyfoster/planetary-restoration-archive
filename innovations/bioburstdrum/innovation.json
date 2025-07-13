@@ -1,0 +1,21 @@
+{
+  "name": "BioBurstDrum",
+  "description": "A drone-mounted drum magazine that deploys fire-counteracting seed, spore, or gel bursts at over 400 units per minute. Enables rapid ecological response and flame-buffer planting.",
+  "system_summary_path": "system_summary.md",
+  "blueprints_folder": "blueprints/",
+  "hardware_docs": "hardware/bill_of_materials.csv",
+  "software_entry": "software/drum_firing_controller.py",
+  "modeling_results": "modeling/simulation_results.csv",
+  "policy_documents": [
+    "policy_legal/legal.md"
+  ],
+  "ipfs_metadata": "ipfs/metadata.json",
+  "related": [
+    "EmberHalo",
+    "RootWeaver",
+    "Atmospheric Filtration Drone Swarm"
+  ],
+  "status": "prototype_ready",
+  "public": true,
+  "last_updated": "2025-07-13"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "PyroRootCapsule",
+  "description": "Root-injected foam capsule that activates underground to stop fires at the root zone before ignition surfaces.",
+  "mission_purpose": "Wildfire prevention by stopping underground smoldering roots from sparking new surface fires.",
+  "system_summary_path": "system_summary.md",
+  "blueprints_folder": "blueprints/",
+  "hardware_docs": "hardware/bill_of_materials.csv",
+  "software_entry": "software/trigger_logic.py",
+  "modeling_results": "modeling/simulation_results.csv",
+  "capability_tags": [
+    "fire",
+    "soil",
+    "drone",
+    "AI",
+    "biomass"
+  ],
+  "deployment_contexts": [
+    "wildfire edge",
+    "urban perimeter",
+    "desert fringe"
+  ],
+  "energy_profile": "passive",
+  "reusability": "single-use",
+  "impact_metrics": {
+    "carbon_removed_per_year_kg": 0,
+    "hectares_restored": 0,
+    "fireline_hours_delayed": 6,
+    "biospecimens_saved": 320
+  },
+  "verification_level": "simulated",
+  "policy_documents": [
+    "policy_legal/legal.md"
+  ],
+  "ipfs_metadata": "ipfs/metadata.json",
+  "related": [
+    "EmberRoot",
+    "WAGLY",
+    "RootWeaver"
+  ],
+  "licensing_notes": "MIT + Healing Use Clause. Not for use in deforestation campaigns or extractive industries.",
+  "funding_needs": {
+    "materials_cost_usd": 6,
+    "deployment_cost_usd": 2,
+    "team_requirements": "1 drone operator, 1 refill technician"
+  },
+  "status": "prototype_ready",
+  "public": true,
+  "last_updated": "2025-07-13"
+}

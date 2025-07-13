@@ -1,0 +1,2 @@
+# System Summary
+EmberNet is a deployable smart mesh net system made from flame-retardant filament interwoven with temperature-sensing threads. Thrown or drone-deployed into vegetation corridors, the net activates embedded mist emitters or expanding gel packs when fire nears — suppressing ignition across a 10–30m radius.

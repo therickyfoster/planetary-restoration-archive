@@ -1,0 +1,13 @@
+{
+  "project_name": "BioBurstDrum",
+  "author": "Symbiote001 + Navi",
+  "version": "1.0.0",
+  "timestamp": "2025-07-13T19:15:10.434012Z",
+  "ipfs_hash": "<to-be-filled>",
+  "license": "MIT + Healing Use Clause",
+  "linked_assets": [
+    "README.md",
+    "blueprints/bioburst_drum_cad.stl",
+    "hardware/bill_of_materials.csv"
+  ]
+}

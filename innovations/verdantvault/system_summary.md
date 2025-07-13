@@ -1,0 +1,2 @@
+# System Summary
+VerdantVault is a subterranean cryo-chamber designed to preserve ultra-diverse seed, spore, and DNA libraries under active climate threat. It auto-adjusts thermal zones, maintains electrochemical stability, and syncs with global biodiversity repositories to form a decentralized planetary ark. Remote access allows emergency biosample extraction and drone-assisted repopulation.

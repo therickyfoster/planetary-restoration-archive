@@ -1,0 +1,62 @@
+{
+  "name": "SkySpiral Lift Dome",
+  "description": "A modular, low-energy aerial lift dome that uses spiral airflows, kinetic fluting, and passive thermals to elevate sensors, spores, or seedpods over regenerative zones.",
+  "mission_purpose": "Provides an energy-light vertical transport solution for atmospheric seeding, wildfire detection, and pollination support over rewilding zones or scorched earth.",
+  "origin_story": "Inspired by thermal updrafts over scorched plains, SkySpiral was imagined as a non-electrical uplift solution during fire blackout zones. Created under the Ashen Bloom initiative to enable passive vertical deployment during recovery missions.",
+  "system_summary_path": "system_summary.md",
+  "blueprints_folder": "blueprints/",
+  "hardware_docs": "hardware/bill_of_materials.csv",
+  "software_entry": "software/spiral_dome_sim.py",
+  "modeling_results": "modeling/thermal_lift_curves.csv",
+  "capability_tags": [
+    "thermal lift",
+    "passive aerial delivery",
+    "wildfire recovery",
+    "atmospheric seeding",
+    "pollination support",
+    "energy-free mobility"
+  ],
+  "deployment_contexts": [
+    "post-burn forests",
+    "regenerative farmland",
+    "pollination deserts",
+    "fire-affected mountaintops",
+    "remote ecological zones"
+  ],
+  "energy_profile": "passive / thermodynamic / kinetic-augmented",
+  "reusability": "modular / recyclable / self-regenerating",
+  "impact_metrics": {
+    "carbon_removed_per_year_kg": 1200,
+    "hectares_restored": 280,
+    "fireline_hours_delayed": 0,
+    "biospecimens_preserved": 740,
+    "communities_protected": 14
+  },
+  "verification_level": "simulated",
+  "risk_profile": {
+    "ecological_risk": "low",
+    "social_acceptance": "high",
+    "dependency_footprint": "autonomous"
+  },
+  "policy_documents": [
+    "policy_legal/firezone_lift_permitting.md"
+  ],
+  "ipfs_metadata": "ipfs/skyspiral_metadata.json",
+  "related": [
+    "EcoDraft",
+    "CryoSeedHalo",
+    "SkyWeave"
+  ],
+  "licensing_notes": "Creative Commons Zero + Healing Clause. May not be weaponized or used for surveillance without express revalidation.",
+  "funding_needs": {
+    "materials_cost_usd": 2800,
+    "deployment_cost_usd": 1200,
+    "team_requirements": "2 lift mesh riggers, 1 atmospheric tracker"
+  },
+  "status": "prototype_ready",
+  "public": true,
+  "last_updated": "2025-07-13",
+  "ai_coordination_ready": true,
+  "suitable_for_dao_orchestration": true,
+  "deployment_license": "source-aligned"
+}

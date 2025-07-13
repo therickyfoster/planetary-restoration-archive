@@ -1,0 +1,21 @@
+{
+  "name": "VerdantVault",
+  "description": "A decentralized underground seed and gene archive that protects Earth\u2019s biodiversity from extinction and enables remote drone-assisted biosample recovery for future rewilding.",
+  "system_summary_path": "system_summary.md",
+  "blueprints_folder": "blueprints/",
+  "hardware_docs": "hardware/bill_of_materials.csv",
+  "software_entry": "software/vault_sync_agent.py",
+  "modeling_results": "modeling/simulation_results.csv",
+  "policy_documents": [
+    "policy_legal/legal.md"
+  ],
+  "ipfs_metadata": "ipfs/metadata.json",
+  "related": [
+    "CryoSeedHalo",
+    "ViraBloom",
+    "RootWeaver"
+  ],
+  "status": "prototype_ready",
+  "public": true,
+  "last_updated": "2025-07-13"
+}

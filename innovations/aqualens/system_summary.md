@@ -1,0 +1,2 @@
+# System Summary
+AquaLens is a solar-powered, floating optical array designed to detect, diagnose, and counteract waterborne contaminants using smart photonic filtering and AI-assisted water profiling.

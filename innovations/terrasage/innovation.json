@@ -1,0 +1,21 @@
+{
+  "name": "TerraSage",
+  "description": "A biosensing root-implantable nanohydrogel that heals soil ecosystems from within by responding to real-time plant and soil signals with targeted nutrient or spore release.",
+  "system_summary_path": "system_summary.md",
+  "blueprints_folder": "blueprints/",
+  "hardware_docs": "hardware/bill_of_materials.csv",
+  "software_entry": "software/biosignal_analysis_agent.py",
+  "modeling_results": "modeling/simulation_results.csv",
+  "policy_documents": [
+    "policy_legal/legal.md"
+  ],
+  "ipfs_metadata": "ipfs/metadata.json",
+  "related": [
+    "ViraBloom",
+    "RootWeaver",
+    "CryoSeedHalo"
+  ],
+  "status": "prototype_ready",
+  "public": true,
+  "last_updated": "2025-07-13"
+}

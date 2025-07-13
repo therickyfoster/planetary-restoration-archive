@@ -1,0 +1,2 @@
+# System Summary
+BioBurstDrum is a high-capacity rotating drum magazine system for aerial drones, designed to rapidly deploy fire-suppressing seed pellets, fungal spores, or gel capsules across vast terrain. Its modular cartridge chambers spin to auto-load individual biodegradable 'bursts' at rates exceeding 400 units per minute.

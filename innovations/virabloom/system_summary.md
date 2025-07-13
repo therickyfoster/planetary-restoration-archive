@@ -1,0 +1,2 @@
+# System Summary
+ViraBloom is a planetary-scale microbiome restoration system. It disperses bioengineered 'symbiosis viral vectors' that awaken dormant soil, air, and aquatic microbes—repairing broken feedback loops and reinitiating large-scale carbon drawdown and nutrient cycling. Each ViraBloom pod coordinates with others via atmospheric signaling, forming a global regenerative mesh.

@@ -1,0 +1,1 @@
+# AI for detecting underground ignition patterns and deploying local dampening countermeasures

@@ -1,0 +1,21 @@
+{
+  "name": "ViraBloom",
+  "description": "A global microbial reawakening system that disperses encoded viral symbiosis vectors to restore biomes, cycle nutrients, and pull carbon from the atmosphere using atmospheric pod mesh sync.",
+  "system_summary_path": "system_summary.md",
+  "blueprints_folder": "blueprints/",
+  "hardware_docs": "hardware/bill_of_materials.csv",
+  "software_entry": "software/pod_coordination_agent.py",
+  "modeling_results": "modeling/simulation_results.csv",
+  "policy_documents": [
+    "policy_legal/legal.md"
+  ],
+  "ipfs_metadata": "ipfs/metadata.json",
+  "related": [
+    "RootWeaver",
+    "EcoDraft",
+    "Sentinel ARC"
+  ],
+  "status": "prototype_ready",
+  "public": true,
+  "last_updated": "2025-07-13"
+}

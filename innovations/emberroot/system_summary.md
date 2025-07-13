@@ -1,0 +1,2 @@
+# System Summary
+EmberRoot is a subterranean wildfire countermeasure: a root-inspired burrowing node that detects underground temperature rises and releases micro-hydration vapor to interrupt soil ignition chains.

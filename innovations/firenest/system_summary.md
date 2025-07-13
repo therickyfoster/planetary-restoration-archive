@@ -1,0 +1,2 @@
+# System Summary
+FireNest is a low-cost, modular early-warning fire beacon system using repurposed solar lights, thermal sensors, and LoRa mesh signals. Deployed en masse in high-risk zones, it detects local temperature spikes and alerts response teams before flames break out.
