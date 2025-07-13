@@ -9,12 +9,16 @@ jobs:
   upload:
     runs-on: ubuntu-latest
     environment: nginx
+
     steps:
       - uses: actions/checkout@v3
+
       - name: Install Node.js and modules
         run: |
           npm init -y
-          npm install nft.storage files-from-path
+          npm install nft.storage files-from-path globby
+          jq '. + { "type": "module" }' package.json > tmp && mv tmp package.json
+
       - name: Upload folder to NFT.Storage
         env:
           NFT_STORAGE_API_TOKEN: ${{ secrets.NFT_STORAGE_API_TOKEN }}
