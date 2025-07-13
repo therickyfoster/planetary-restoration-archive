@@ -147,7 +147,7 @@ Contract Law (Commonwealth + International Court)
 
 🧭 Disputes will be settled under:
 
-Jurisdiction: British Columbia, Canada
+Jurisdiction: Alberta, Canada
 
 Fallback arbitration: International Chamber of Commerce (ICC), Online Arbitration Panel
 
@@ -165,7 +165,7 @@ Commercial Use	❌ Prohibited without agreement or license
 Trademarks	❌ Must not be used without permission
 Attribution	✅ Required
 Liability Waiver	✅ Enforced – use at your own risk
-Jurisdiction	✅ British Columbia, Canada + ICC fallback
+Jurisdiction	✅ Alberta, Canada + ICC fallback
 Future Licenses	✅ Allowed – prior versions remain valid unless explicitly replaced
 
 
