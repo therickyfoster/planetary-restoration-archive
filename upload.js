@@ -5,7 +5,11 @@ import path from 'path';
 const dir = 'public';
 
 async function main() {
-  const files = await filesFromPaths(['.'], { hidden: false });
+main().catch(err => {
+  console.error('❌ Upload failed:', err.message || err);
+  console.error(err.stack);
+  process.exit(1);
+});
 
   const client = new NFTStorage({ token: process.env.NFT_STORAGE_API_TOKEN });
   const cid = await client.storeDirectory(files);
