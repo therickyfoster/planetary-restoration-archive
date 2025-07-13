@@ -1,5 +1,5 @@
 import { NFTStorage } from 'nft.storage';
-import { filesFromPath } from 'files-from-path';
+import { filesFromPaths } from 'files-from-path';
 import path from 'path';
 
 const dir = 'public';
