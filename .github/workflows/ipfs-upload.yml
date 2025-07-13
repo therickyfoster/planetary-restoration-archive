@@ -1,10 +1,9 @@
-name: Upload to IPFS via NFT.Storage
+name: Upload to IPFS
 
 on:
-  workflow_dispatch:  # Manual trigger from GitHub UI
   push:
-    paths:
-      - 'uploads/**'   # Trigger only if files in uploads/ folder change
+    branches:
+      - main  # or your working branch
 
 jobs:
   upload:
@@ -14,25 +13,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install nft.storage CLI
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'  # or another supported version
+
+      - name: Install dependencies
         run: npm install -g nft.storage
 
-      - name: Upload latest.zip to NFT.Storage
+      - name: Upload folder to IPFS
         env:
           NFT_STORAGE_TOKEN: ${{ secrets.NFT_STORAGE_API_KEY }}
         run: |
-          FILE="./uploads/latest.zip"
-          if [ -f "$FILE" ]; then
-            echo "Uploading $FILE to NFT.Storage..."
-            CID=$(nft.storage upload "$FILE" --token "$NFT_STORAGE_TOKEN")
-            echo "✅ Uploaded! CID: $CID"
-            echo "CID=$CID" >> $GITHUB_ENV
-          else
-            echo "❌ File not found: $FILE"
-            exit 1
-          fi
-
-      - name: Save CID as artifact
-        run: echo $CID > cid.txt
-
-      - name:
+          # Example: Upload "public" folder
+          nftstorage store-directory ./public > upload_output.json
+          echo "Upload complete. CID saved to upload_output.json"
