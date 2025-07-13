@@ -8,6 +8,7 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
+    environment: nginx
     steps:
       - uses: actions/checkout@v3
       - name: Install Node.js and modules
