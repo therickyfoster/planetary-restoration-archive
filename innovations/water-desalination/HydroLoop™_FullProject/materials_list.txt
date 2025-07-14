@@ -1,0 +1,80 @@
+# 🔩 HydroLoop™ v1.0 – Materials List
+# All parts selected for affordability, local substitution, and non-toxic durability.
+# Most materials can be salvaged, repurposed, or CNC-ready.
+
+--------------------------------------------
+🔧 CORE HOUSING + CIRCULATION
+--------------------------------------------
+
+- [ ] Food-grade HDPE barrel or aluminum drum (40–80L)
+- [ ] Modular PVC pipe (1.5"–2") for condensate loop
+- [ ] Silicone or EPDM gaskets (non-toxic, heat-safe)
+- [ ] Inline ball valves (x4) for pressure routing
+- [ ] Pipe elbows and T-junctions (PVC or copper)
+- [ ] Stainless steel mesh filters (reusable)
+- [ ] Quick-release hose connectors
+
+--------------------------------------------
+🔥 HEAT CORE VARIANTS (choose one or more)
+--------------------------------------------
+
+- [ ] Solar concentrator sheet (mylar / aluminum) OR
+- [ ] Black-painted metal absorber plate (DIY) OR
+- [ ] Thermal resistive coil (12V / 24V, solar powered)
+- [ ] Glass or polycarbonate lid for greenhouse heating
+
+--------------------------------------------
+💧 CONDENSATION SYSTEM
+--------------------------------------------
+
+- [ ] Coiled copper tubing (5–8mm ID, 2–5m length)
+- [ ] Condensate tray (stainless or ceramic basin)
+- [ ] Food-grade silicone tube (output to storage)
+- [ ] Thermal insulation wrap (foam or wool-based)
+- [ ] Reflective foil backing (optional boost)
+
+--------------------------------------------
+🔋 OPTIONAL SENSOR MODULE
+--------------------------------------------
+
+- [ ] Flowmeter (YF-S201 or analog)
+- [ ] ESP32 or Arduino Nano board
+- [ ] Waterproof DS18B20 temperature sensor
+- [ ] MicroSD logger or wireless module
+- [ ] Power supply (solar + battery or USB)
+
+--------------------------------------------
+♻️ GREYWATER REINTEGRATION
+--------------------------------------------
+
+- [ ] Charcoal filter housing (PVC or metal)
+- [ ] Coconut fiber / sand filter layers
+- [ ] Gravity-fed loopback tank (20L or more)
+- [ ] Overflow safety valve (mechanical)
+
+--------------------------------------------
+🔩 FASTENERS + GENERAL MATERIALS
+--------------------------------------------
+
+- [ ] Stainless steel bolts, washers, wingnuts
+- [ ] Non-toxic sealant or plumber’s tape
+- [ ] Mounting brackets or roof strap anchors
+- [ ] Drill + bits (3–12mm recommended)
+- [ ] Fine mesh bug screen (for air intake)
+
+--------------------------------------------
+🧰 TOOLS NEEDED
+--------------------------------------------
+
+- [ ] Hand drill or CNC cutter
+- [ ] Pipe cutter or handsaw
+- [ ] Wrenches + screwdriver set
+- [ ] Safety gloves + goggles
+- [ ] Multimeter (if sensor module used)
+
+--------------------------------------------
+📦 PACKAGING RECOMMENDATION
+--------------------------------------------
+
+- Flat-packed in 1x small crate or 2x stackable boxes  
+- Include printed diagrams + offline USB w/ repo
