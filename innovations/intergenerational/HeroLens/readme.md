@@ -123,6 +123,3 @@ Herolens Live is an **open-source, planetary-scale project**. We welcome enginee
 
 🌿 **Let’s build a trust-first, regenerative future — together.**
 
----
-
-📦 **Repo structure coming next:** Fully modular, ready for prototype weaving and seamless integration. Let’s go deeper from here.
