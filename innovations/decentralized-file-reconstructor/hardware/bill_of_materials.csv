@@ -1,0 +1,9 @@
+device_name,device_type,cpu_model,ram_gb,gpu,storage,tested_os,notes
+Raspberry Pi 5,ARM SBC,Quad-core Cortex-A76,8,None,SD 128GB,Raspberry Pi OS,"Tested with Vicuna fallback + SD img2img"
+ThinkPad X220,Laptop,Intel i5-2520M,4,None,SSD 240GB,Ubuntu 22.04,"4GB RAM baseline for full pipeline"
+Steam Deck,Portable AMD,AMD Van Gogh APU,16,RDNA2 8CU,NVMe 512GB,Arch Linux,"GPU-accelerated CLIP + diffusion"
+Jetson Nano,Edge AI SoC,Quad-core ARM Cortex-A57,4,128-core Maxwell,eMMC 16GB,JetPack 4.6,"Low-power agent mesh node"
+MacBook Air M2,Laptop,Apple M2,16,Integrated,GPU 512GB,macOS 14,"Whisper + T5 inference in native metal"
+Custom VM x86,Virt,Intel Xeon E5-2670,8,None,HDD 500GB,Debian 11,"Tested CLI mode with CLI + IPFS + T5"
+Chromebook ARM,ARM Laptop,Rockchip RK3399,2,None,eMMC 32GB,ChromeOS Dev,"Only supported fallback mode with T5"
+Framework Laptop x86,Laptop,Intel i7-1165G7,32,Intel Iris Xe,NVMe 1TB,NixOS,"Maxed performance testing, full swarming stack"
