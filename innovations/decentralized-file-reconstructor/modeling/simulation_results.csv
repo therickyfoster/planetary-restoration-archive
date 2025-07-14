@@ -1,0 +1,9 @@
+task,file_type,source_size_mb,reconstructed_size_mb,device_profile,ram_used_mb,completion_time_sec,accuracy_score,notes
+"AI Frame Recovery","video",8120,8117,"Steam Deck (16GB)",2986,201,0.92,"Reconstructed 4K 60fps footage using diffusion + Vicuna"
+"PDF Repair","binary",312,312,"ThinkPad X220 (4GB)",390,12,0.999,"Used Vicuna + T5 fallback; header/Footer reconstructed"
+"Corrupted Screenshot Fix","image",1.2,1.2,"Raspberry Pi 5 (8GB)",630,7,0.95,"CLIP embedding with SD1.5 img2img restoration"
+"Text Fragment Reassembly","text",0.8,0.85,"Chromebook (ARM, 2GB)",410,5,0.97,"Vicuna used for paragraph reconstruction"
+"Model Stream Inference","weights",4600,4600,"Jetson Nano (4GB)",3887,312,N/A,"Tuned to stream LLM weights without full load"
+"Audio Transcript Recovery","audio",520,522,"MacBook M2 (16GB)",1790,33,0.94,"Used Whisper + T5 with semantic recovery"
+"Hex Fragment Repair","binary",0.9,0.95,"Ubuntu VM (2GB)",740,6,0.89,"T5 fallback from unknown binary startpoint"
+"Live Memory Emulation","multi-type",8400,8401,"Windows 11 (8GB)",4110,294,0.96,"No RAM overflow; microbuffer simulation successful"
