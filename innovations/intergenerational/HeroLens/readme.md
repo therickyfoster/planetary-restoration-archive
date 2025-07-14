@@ -2,20 +2,20 @@
 
 ## 📜 Table of Contents
 
-1️⃣ 📝 [Introduction](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#1-introduction)  
-2️⃣ 🌟 [Vision and Purpose](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#2-vision-and-purpose)  
-3️⃣ 🧩 [System Overview](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#3-system-overview)  
-4️⃣ 🧱 [Core Modules](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#4-core-modules)  
-5️⃣ 🛠️ [Technical Architecture](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#5-technical-architecture)  
-6️⃣ 🗳️ [Governance and DAO Structure](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#6-governance-and-dao-structure)  
-7️⃣ 💸 [Incentive Design](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#7-incentive-design)  
-8️⃣ 🤝 [Inclusivity and Equity Framework](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#8-inclusivity-and-equity-framework)  
-9️⃣ 🛤️ [Implementation Roadmap](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#9-implementation-roadmap)  
-🔟 🚀 [Contributing and Call to Action](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#10-contributing-and-call-to-action)
+📝 1️⃣ [Introduction](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#📝-1️⃣-introduction)  
+🌟 2️⃣ [Vision and Purpose](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🌟-2️⃣-vision-and-purpose)  
+🧩 3️⃣ [System Overview](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🧩-3️⃣-system-overview)  
+🧱 4️⃣ [Core Modules](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🧱-4️⃣-core-modules)  
+🛠️ 5️⃣ [Technical Architecture](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🛠️-5️⃣-technical-architecture)  
+🗳️ 6️⃣ [Governance and DAO Structure](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🗳️-6️⃣-governance-and-dao-structure)  
+💸 7️⃣ [Incentive Design](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#💸-7️⃣-incentive-design)  
+🤝 8️⃣ [Inclusivity and Equity Framework](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🤝-8️⃣-inclusivity-and-equity-framework)  
+🛤️ 9️⃣ [Implementation Roadmap](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🛤️-9️⃣-implementation-roadmap)  
+🚀 🔟 [Contributing and Call to Action](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#🚀-🔟-contributing-and-call-to-action)
 
 ---
 
-## 1️⃣ Introduction
+## 📝 1️⃣ Introduction
 
 Welcome to **Herolens Live: The Regenerative Trust Stack** — an open-source initiative to build a radically transparent, decentralized, and regenerative platform where governance, ecological restoration, and public service converge.
 
@@ -23,7 +23,7 @@ Our goal is to **architect trust, incentivize good, and decentralize oversight**
 
 ---
 
-## 2️⃣ Vision and Purpose
+## 🌟 2️⃣ Vision and Purpose
 
 Herolens Live aims to:
 - 🕊️ **Restore public trust** via real-time livestream transparency.
@@ -34,7 +34,7 @@ Herolens Live aims to:
 
 ---
 
-## 3️⃣ System Overview
+## 🧩 3️⃣ System Overview
 
 Herolens is designed as a modular, extensible stack:
 - 🔴 **Livestream Trust Layer**
@@ -47,7 +47,7 @@ Each module is interoperable and built for gradual decentralization and future-p
 
 ---
 
-## 4️⃣ Core Modules
+## 🧱 4️⃣ Core Modules
 
 ### 4.1️⃣ Livestream Interface
 Early-stage integration with Twitch/YouTube APIs; native stack built on Livepeer + Lens Protocol for Web3-native livestreaming.
@@ -66,7 +66,7 @@ Multi-token architecture with voting rights, referenda, treasury management.
 
 ---
 
-## 5️⃣ Technical Architecture
+## 🛠️ 5️⃣ Technical Architecture
 
 Herolens is structured around interoperability and modularity:
 - **API-first architecture** for extensibility.
@@ -77,7 +77,7 @@ Herolens is structured around interoperability and modularity:
 
 ---
 
-## 6️⃣ Governance and DAO Structure
+## 🗳️ 6️⃣ Governance and DAO Structure
 
 - 🏦 **Treasury:** Controlled by token holders.
 - 🗳️ **Voting:** On-chain proposals and voting with stake-weighted mechanisms.
@@ -86,7 +86,7 @@ Herolens is structured around interoperability and modularity:
 
 ---
 
-## 7️⃣ Incentive Design
+## 💸 7️⃣ Incentive Design
 
 - 💰 Direct tipping for livestream participants (Stripe + crypto wallets).
 - 🎯 Community-funded quests and bounties.
@@ -95,7 +95,7 @@ Herolens is structured around interoperability and modularity:
 
 ---
 
-## 8️⃣ Inclusivity and Equity Framework
+## 🤝 8️⃣ Inclusivity and Equity Framework
 
 - 🤝 Guaranteed onboarding and participation for indigenous and marginalized communities.
 - 🧭 Knowledge sovereignty and protection through open TK Labels framework.
@@ -104,7 +104,7 @@ Herolens is structured around interoperability and modularity:
 
 ---
 
-## 9️⃣ Implementation Roadmap
+## 🛤️ 9️⃣ Implementation Roadmap
 
 - **Phase 1:** MVP with existing APIs + IPFS + Stripe/crypto tips.
 - **Phase 2:** Gamification engine + reputation system prototype.
@@ -113,7 +113,7 @@ Herolens is structured around interoperability and modularity:
 
 ---
 
-## 🔟 Contributing and Call to Action
+## 🚀 🔟 Contributing and Call to Action
 
 Herolens Live is an **open-source, planetary-scale project**. We welcome engineers, designers, artists, DAO builders, regenerative leaders, and visionary investors to co-create with us.
 
