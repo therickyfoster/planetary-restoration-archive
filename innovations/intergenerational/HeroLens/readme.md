@@ -1,16 +1,17 @@
 # Herolens Live: The Regenerative Trust Stack
 
 ## 📜 Table of Contents
-1️⃣ [Introduction](#1-introduction)  
-2️⃣ [Vision and Purpose](#2-vision-and-purpose)  
-3️⃣ [System Overview](#3-system-overview)  
-4️⃣ [Core Modules](#4-core-modules)  
-5️⃣ [Technical Architecture](#5-technical-architecture)  
-6️⃣ [Governance and DAO Structure](#6-governance-and-dao-structure)  
-7️⃣ [Incentive Design](#7-incentive-design)  
-8️⃣ [Inclusivity and Equity Framework](#8-inclusivity-and-equity-framework)  
-9️⃣ [Implementation Roadmap](#9-implementation-roadmap)  
-🔟 [Contributing and Call to Action](#10-contributing-and-call-to-action)  
+
+1️⃣ 📝 [Introduction](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#1-introduction)  
+2️⃣ 🌟 [Vision and Purpose](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#2-vision-and-purpose)  
+3️⃣ 🧩 [System Overview](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#3-system-overview)  
+4️⃣ 🧱 [Core Modules](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#4-core-modules)  
+5️⃣ 🛠️ [Technical Architecture](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#5-technical-architecture)  
+6️⃣ 🗳️ [Governance and DAO Structure](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#6-governance-and-dao-structure)  
+7️⃣ 💸 [Incentive Design](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#7-incentive-design)  
+8️⃣ 🤝 [Inclusivity and Equity Framework](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#8-inclusivity-and-equity-framework)  
+9️⃣ 🛤️ [Implementation Roadmap](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#9-implementation-roadmap)  
+🔟 🚀 [Contributing and Call to Action](https://github.com/TheRickyFoster/planetary-restoration-archive/tree/main/innovations/intergenerational/HeroLens#10-contributing-and-call-to-action) 
 
 ---
 
