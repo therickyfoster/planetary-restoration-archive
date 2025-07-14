@@ -1,1 +1,64 @@
-
+{
+  "mesh_version": "v1.0.0",
+  "network_mode": "hybrid",
+  "agents": [
+    {
+      "id": "agent-alpha",
+      "role": "reconstructor",
+      "model": "vicuna-7b",
+      "cpu_cap": 2,
+      "ram_cap_mb": 2048,
+      "gpu_enabled": true,
+      "tasks": ["text", "binary"]
+    },
+    {
+      "id": "agent-beta",
+      "role": "vision-enhancer",
+      "model": "sd-1.5",
+      "cpu_cap": 4,
+      "ram_cap_mb": 4096,
+      "gpu_enabled": true,
+      "tasks": ["image", "frame"]
+    },
+    {
+      "id": "agent-gamma",
+      "role": "semantic-router",
+      "model": "clip-vit",
+      "cpu_cap": 1,
+      "ram_cap_mb": 1024,
+      "gpu_enabled": false,
+      "tasks": ["routing", "classification"]
+    },
+    {
+      "id": "agent-delta",
+      "role": "fallback-logic",
+      "model": "t5-base",
+      "cpu_cap": 1,
+      "ram_cap_mb": 768,
+      "gpu_enabled": false,
+      "tasks": ["repair", "summary"]
+    }
+  ],
+  "fallback_tree": {
+    "vicuna": "t5-base",
+    "sd-1.5": "clip-vit"
+  },
+  "routing_strategy": "cap-aware-priority",
+  "privacy_protocols": {
+    "end_to_end_encryption": true,
+    "chunk_signing": true,
+    "self_destruct_after": 3600
+  },
+  "load_balancing": {
+    "agent_rotation": true,
+    "memory_pressure_threshold": 0.8,
+    "deprioritize_agents_over_threshold": true
+  },
+  "deployment_contexts": [
+    "edge-device-swarm",
+    "offline lab mesh",
+    "post-disaster zone",
+    "low-income tech stack",
+    "open-source repair cluster"
+  ]
+}
