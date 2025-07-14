@@ -1,26 +1,20 @@
-# 💧 HydroLoop™ – Closed-Loop Modular Desalination System  
-**Innovation ID: WTR-017**  
-*Category: Water Desalination / Off-grid Hydrology / Circular Infrastructure*
-
----
-
 ## Contents  
-- [🧠 I. Core Overview](#core-overview)  
-  - [📖 Introduction](#introduction)  
-  - [📘 Mission & Vision](#mission--vision)  
-  - [📚 Curation Philosophy](#curation-philosophy)  
-  - [⚖️ Legal, Licensing & Ethics](#legal-licensing--ethics)  
-  - [💾 How to Use This Archive](#how-to-use-this-archive)  
-  - [🧭 Folder Structure Map](#folder-structure-map)  
-- [🔧 II. Innovations Index](#innovations-index)  
-- [🗺️ III. City Blueprint Example](#city-blueprint-example)  
-- [⚙️ IV. Deployment Systems](#deployment-systems)  
-- [🧪 V. Simulations](#simulations)  
-- [💸 VI. Funding & Monetization](#funding--monetization)  
-- [🧩 VII. Community & Outreach](#community--outreach)  
-- [🔐 VIII. Safety & Redundancy](#safety--redundancy)  
-- [🧭 IX. Meta & Roadmap](#meta--roadmap)  
-- [🏁 X. Final Reflections](#final-reflections)  
+- [🧠 I. Core Overview](#️i-core-overview)  
+  - [📖 Introduction](#️introduction)  
+  - [📘 Mission & Vision](#️mission--vision)  
+  - [📚 Curation Philosophy](#️curation-philosophy)  
+  - [⚖️ Legal, Licensing & Ethics](#️legal-licensing--ethics)  
+  - [💾 How to Use This Archive](#️how-to-use-this-archive)  
+  - [🧭 Folder Structure Map](#️folder-structure-map)  
+- [🔧 II. Innovations Index](#️ii-innovations-index)  
+- [🗺️ III. City Blueprint Example](#️iii-city-blueprint-example)  
+- [⚙️ IV. Deployment Systems](#️iv-deployment-systems)  
+- [🧪 V. Simulations](#️v-simulations)  
+- [💸 VI. Funding & Monetization](#️vi-funding--monetization)  
+- [🧩 VII. Community & Outreach](#️vii-community--outreach)  
+- [🔐 VIII. Safety & Redundancy](#️viii-safety--redundancy)  
+- [🧭 IX. Meta & Roadmap](#️ix-meta--roadmap)  
+- [🏁 X. Final Reflections](#️x-final-reflections)  
 
 ---
 
@@ -82,7 +76,14 @@ Curation principles:
 
 ### 🧭 Folder Structure Map
 
-HydroLoop™_FullProject/ ├── HydroLoop_Overview.pdf           # Full conceptual summary ├── blueprint_v1/                    # Modular blueprints + flow diagrams ├── dao_integration.md              # Smart contract logic + usage cases ├── materials_list.txt              # Locally-sourceable parts ├── energy_variants/                # Thermal, solar, hybrid designs ├── sketches/                       # Conceptual illustrations ├── maintenance_guide.md            # Cleaning, repair, safety cycles ├── HydroLoop_LICENSE.md            # Legal/license/ethics doc
+HydroLoop™_FullProject/ ├── HydroLoop_Overview.pdf           # Full conceptual summary
+├── blueprint_v1/                    # Modular blueprints + flow diagrams
+├── dao_integration.md              # Smart contract logic + usage cases
+├── materials_list.txt              # Locally-sourceable parts
+├── energy_variants/                # Thermal, solar, hybrid designs
+├── sketches/                       # Conceptual illustrations
+├── maintenance_guide.md            # Cleaning, repair, safety cycles
+├── HydroLoop_LICENSE.md            # Legal/license/ethics doc
 
 ---
 
@@ -125,7 +126,7 @@ Termux script for offline setup: *(in development)*
 
 ## 🧪 V. Simulations  
 
-- v1 flow rate simulations completed in [HydroLoop_Overview.pdf]  
+- v1 flow rate simulations completed in `HydroLoop_Overview.pdf`  
 - v2 AI-augmented routing optimization in progress  
 - Future simulation goals:
   - Heat efficiency in low-sunlight zones  
@@ -170,17 +171,17 @@ HydroLoop™ includes:
 
 ## 🧭 IX. Meta & Roadmap  
 
-| Version | Status | Notes |
-|---------|--------|-------|
-| `v1.0`  | ✅ Complete | Solar/thermal hybrid core in place |
-| `v1.1`  | 🔄 In progress | AI-optimized internal routing |
-| `v2.0`  | 🔜 Planned | Add low-energy + manually operable variant |
+| Version | Status       | Notes                               |
+|---------|--------------|-------------------------------------|
+| `v1.0`  | ✅ Complete   | Solar/thermal hybrid core in place  |
+| `v1.1`  | 🔄 In progress | AI-optimized internal routing       |
+| `v2.0`  | 🔜 Planned    | Add low-energy + manual variant     |
 
 Next goals:
 
 - DAO-verified field trials  
 - City-specific deployment packages  
-- IPFS/torrent mirror of this folder
+- [📡 IPFS/torrent mirror of this folder](#🏁-x-final-reflections)
 
 ---
 
