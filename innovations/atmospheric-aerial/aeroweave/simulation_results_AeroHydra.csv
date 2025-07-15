@@ -1,0 +1,6 @@
+Test_ID,Humidity_%,Temp_C,WaterYield_ml_day,CleaningCycle
+A001,42,26.5,117,Yes
+A002,38,28.0,73,No
+A003,46,27.3,136,Yes
+A004,35,25.8,52,No
+A005,49,29.1,148,Yes
