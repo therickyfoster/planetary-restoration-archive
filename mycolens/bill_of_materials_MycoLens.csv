@@ -1,0 +1,7 @@
+Component,Specification,Quantity
+Native or lab-grown mycelial substrate,Fungal culture spread on hemp or straw base,1–2 kg per mesh unit
+Carbon-thread mesh,Flexible bio-conductive grid,1 sheet per sensing node
+Analog signal collector (optional),ESP32/LoRa analog board or passive data tap,1 per cluster
+Moisture-stable casing,Compostable biomaterial or soil-based encasement,1 per unit
+Calibration substrate,"Sterile, pH-neutral soil patch with known values",1 per installation cycle
+Nutrient starter pack,"Fungal mix of lignin, sugars, and minerals",200g per square meter
