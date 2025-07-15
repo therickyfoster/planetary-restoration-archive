@@ -1,0 +1,6 @@
+Test_ID,Temp_C,Humidity_%,Growth_cm_day,CO2_absorption_g_day,Self_heal_%
+Sim001,24,80,3.1,12.5,92
+Sim002,22,78,2.7,10.9,88
+Sim003,26,83,3.4,13.8,95
+Sim004,21,70,2.2,9.6,84
+Sim005,23,76,2.9,11.2,90
