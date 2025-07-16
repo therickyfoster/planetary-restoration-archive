@@ -1,6 +1,6 @@
-##RegenNode-Beijing: Deployment Plan
+RegenNode-Beijing: Deployment Plan
 
-##🚀 Overview
+🚀 Overview
 
 This deployment plan outlines a phased, DAO-coordinated, community-driven rollout of RegenNode technologies, ecosystems, and regenerative frameworks across Beijing. Each phase is guided by real-time data, citizen governance, and ecological performance metrics.
 
