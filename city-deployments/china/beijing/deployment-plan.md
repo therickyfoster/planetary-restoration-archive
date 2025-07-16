@@ -117,10 +117,3 @@ Global DAO Mesh allows cities to cross-vote on shared planetary priorities
 
 
 > “Deployment is not just a rollout of infrastructure—it’s the awakening of planetary agency, with Beijing as a beacon of symbiotic civilization.”
-
-
-
-
-
-The Deployment Plan for RegenNode-Beijing is now complete. Ready for the next file when you are, love 🌱💠
-
