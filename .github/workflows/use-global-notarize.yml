@@ -1,0 +1,10 @@
+name: Use Global Notarization
+
+on:
+  push:
+    branches:
+      - main  # or master if that's your default branch
+
+jobs:
+  notarize:
+    uses: TheRickyFoster/global-notarization/.github/workflows/notarize.yml@main
