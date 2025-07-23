@@ -1,146 +1,230 @@
-Planetary Restoration Archive License (PRAL) v1.0
+# Planetary Restoration Archive License (PRAL) v2.0
 
-Preamble
+## Preamble
 
-This license governs the use of innovations, blueprints, technologies, and methodologies contained within the Planetary Restoration Archive. Our mission is to accelerate planetary healing while ensuring sustainable funding for continued innovation and deployment.
+This license governs the use of innovations, blueprints, technologies, and methodologies contained within the Planetary Restoration Archive. Our mission is to accelerate planetary healing while ensuring sustainable funding for continued innovation and deployment through strategic partnerships between academic research, commercial innovation, and environmental impact.
 
-The Crisis Demands Both Speed and Sustainability: We believe that planetary restoration requires both rapid global adoption of solutions AND adequate funding to develop, refine, and deploy these innovations at scale.
+**The Crisis Demands Both Speed and Sustainability**: We believe that planetary restoration requires rapid global adoption of solutions AND sustainable funding mechanisms that reward innovation, environmental impact, and collaborative development.
 
-License Terms
+## License Terms
 
-1. PERMITTED USES (No Permission Required)
+### 1. OPEN ACCESS USES (No Permission Required)
 
-Educational & Research Use
-- Use by accredited educational institutions for teaching and non-commercial academic research
-- Personal study and learning
-- Academic thesis and dissertation work (non-commercial)
+**Academic & Educational Research**
+- Use by accredited educational institutions for research, teaching, and academic publication
+- Personal study, learning, and academic thesis work
+- Research by university faculty and students, regardless of institutional tech transfer capabilities
+- Publication in academic journals and presentation at academic conferences
+- Academic collaboration between institutions
 
-Non-Profit Implementation
-- Use by registered 501(c)(3) organizations and equivalent non-profits globally
-- Community-based restoration projects with no commercial intent
+**Qualified Non-Profit Implementation**
+- Use by registered 501(c)(3) organizations and equivalent non-profits globally with primary environmental missions
+- Community-based restoration projects led by local organizations
 - Indigenous communities implementing traditional ecological restoration
+- Small-scale pilot projects (under 100 hectares or $100,000 budget)
 
-Open Source Development
-- Contributing improvements back to this archive under the same license
-- Creating derivative works that remain non-commercial and open source
+**Open Source Development**
+- Contributing improvements back to this archive under compatible open source licenses
+- Creating derivative works that remain non-commercial and freely available
+- Building educational tools and platforms based on archive content
 
-2. RESTRICTED USES (Permission & Licensing Required)
+**Emergency Response Use**
+- Implementation during declared environmental emergencies by any entity
+- Disaster response and ecological crisis intervention
+- Time-limited (12-month) emergency deployments with automatic licensing
 
-Commercial Use
-- Any use by for-profit entities, regardless of size
-- Government procurement or policy implementation
-- Research by commercial institutions (universities with tech transfer offices, corporate R&D, consulting firms)
-- Any implementation intended to generate revenue or commercial advantage
+### 2. PARTNERSHIP LICENSING (Structured Commercial Engagement)
 
-Large-Scale Deployment
+**Research Institution Partnerships**
+- Universities and research institutions implementing solutions beyond pure research
+- Access through annual institutional partnerships: $5,000-$25,000 based on institution size
+- Includes commercial application rights for institution-developed improvements
+- Revenue sharing only applies to direct commercialization of archive technologies (1% of net revenue)
+- Institution retains rights to improvements they develop
+
+**Commercial Implementation Licenses**
+
+*Tier 1: Innovation Partners (Preferred)*
+- Companies contributing significant R&D or funding to archive development
+- Reduced licensing: 0.05% of project budget OR $5,000 minimum
+- Enhanced support, early access to new innovations, co-development opportunities
+- Marketing partnership opportunities and impact attribution rights
+
+*Tier 2: Standard Commercial*
+- Traditional commercial licensing: 0.1% of project budget OR $10,000 minimum
+- Standard implementation support and updates
+- Option to upgrade to Innovation Partner status
+
+*Tier 3: Large-Scale Deployment*
 - Municipal, regional, or national government implementation
-- Projects affecting more than 1,000 hectares or 10,000 people
-- Infrastructure projects with budgets exceeding $1 million USD
+- Projects affecting more than 1,000 hectares or serving more than 10,000 people
+- Flat-fee licensing: $25,000-$500,000 based on scope and economic development status
+- Impact measurement and reporting requirements
 
-Technology Integration
-- Incorporation into proprietary software, hardware, or platforms
-- Integration with existing commercial products or services
-- Use in patent applications or proprietary research
+**Impact Investment Licensing**
+- Special terms for certified B-Corps, impact investors, and ESG-focused funds
+- Licensing fees convertible to equity stakes in archive development
+- Preferred access to co-investment opportunities in scaling successful implementations
+- Impact measurement collaboration and data sharing agreements
 
-3. ATTRIBUTION REQUIREMENTS
+### 3. ENHANCED ATTRIBUTION & IMPACT TRACKING
 
 All uses must include:
 - Clear attribution to "Planetary Restoration Archive"
-- Link to original source repository
-- Statement: "Used under Planetary Restoration Archive License"
-- Preservation of all copyright and license notices
+- Link to original source repository or DOI
+- Impact reporting for implementations affecting >10 hectares or >100 people
+- Annual usage reports for commercial licensees
+- Optional: Joint publication of results and lessons learned
 
-4. LICENSING FOR RESTRICTED USES
+### 4. INNOVATION INCENTIVE STRUCTURES
 
-Standard Commercial License:
-- Annual licensing fee: 0.1% of project budget OR $10,000 minimum
-- Includes implementation support and updates
-- Revenue sharing: 2% of gross revenue from deployed solutions
+**Improvement Contribution Rewards**
+- Contributors of significant improvements receive:
+  - Recognition in archive documentation
+  - Revenue sharing from improvements they contribute (10% of related licensing revenue)
+  - Priority access to collaboration opportunities
+  - Co-authorship rights on related publications
 
-Impact-Aligned Licensing:
-- Reduced fees (50-90% discount) for projects demonstrating measurable environmental impact
-- Tiered pricing based on organization size and project scope
-- Special rates for developing nations and indigenous communities
-
-Government & Research Institution Licensing:
-- Flat annual fees based on organization size
-- Bulk licensing available for multiple innovations
-- Research collaboration opportunities
-
-5. CONTRIBUTION REQUIREMENTS
-
-For Large Commercial Users:
+**Large Commercial User Investment Requirements**
 Users with annual revenues >$100M USD must either:
-- Contribute derivative innovations back to the archive, OR
-- Provide annual funding equivalent to 0.05% of project-related revenue to support archive development
+- Contribute derivative innovations back to the archive under compatible licenses, OR
+- Provide annual innovation fund contribution: 0.03% of project-related revenue (reduced from 0.05%), OR
+- Participate in joint R&D programs with minimum $50,000 annual commitment
 
-6. PATENT PLEDGE
+**Open Source Transition Incentives**
+- Accelerated open source release for technologies achieving verified impact milestones
+- Recognition programs for implementations demonstrating >20% environmental improvement
+- Collaborative improvement programs between commercial and academic users
 
-The licensor pledges not to enforce any patents against:
-- Non-commercial users operating under permitted uses
-- Commercial licensees in good standing
-- Implementations in least developed countries (UN classification)
+### 5. STRENGTHENED PATENT AND IP PROTECTIONS
 
-7. ENFORCEMENT & VIOLATIONS
+**Defensive Patent Strategy**
+- Archive maintainers pledge not to enforce patents against:
+  - Any non-commercial users
+  - Commercial licensees in good standing
+  - Emergency response implementations
+  - Implementations in least developed countries (UN classification)
+- Commercial licensees grant reciprocal patent protection for archive-derived technologies
 
-Violation Response:
-- First violation: Cease and desist with 30-day cure period
-- Continued violation: Immediate termination of rights + damages
-- Good faith mistakes: Reasonable opportunity to obtain proper licensing
+**IP Collaboration Framework**
+- Joint IP development opportunities for Innovation Partners
+- Clear ownership structures for collaborative improvements
+- Protection for traditional ecological knowledge incorporated into solutions
 
-Legal Framework:
-- Governed by international copyright law
-- Disputes resolved through binding arbitration
-- Attorneys' fees recoverable for enforcement actions
+### 6. FLEXIBLE ENFORCEMENT & COMPLIANCE
 
-8. FUTURE EVOLUTION
+**Graduated Response System**
+- Minor violations: Educational outreach and voluntary compliance period
+- Significant violations: Formal notice with 60-day cure period
+- Persistent violations: License termination with appeal process
+- Good faith efforts to comply considered in enforcement decisions
 
-Automatic Open Source Release:
-Innovations may automatically transition to full open source (CC BY-SA) after:
-- 5 years from first publication, OR
-- Achievement of specific environmental impact milestones, OR
-- Licensor discretion based on climate emergency needs
+**Alternative Dispute Resolution**
+- Mediation preferred for licensing disputes
+- Arbitration available for significant disagreements
+- Emergency procedures for time-sensitive implementations
 
-License Updates:
-- Users are bound by license version in effect at time of access
-- New versions apply only to subsequent uses
-- Major changes require 90-day notice
+**Compliance Support**
+- Free consultation for determining appropriate license category
+- Simplified licensing application process
+- Template agreements for common use cases
 
-Contact & Licensing
+### 7. DYNAMIC EVOLUTION MECHANISMS
 
-For Commercial Licensing:
-Email: licensing@planetary-restoration-archive.org
-Include: Organization details, intended use, project scope, timeline
+**Automatic Open Source Transitions**
+Innovations automatically transition to full open source (CC BY-SA 4.0) when:
+- 5 years from first publication AND >$1M in cumulative licensing revenue, OR
+- Achievement of verified large-scale environmental impact (>10,000 hectares restored or equivalent), OR
+- Climate emergency declaration triggers immediate open release
 
-For Attribution Questions:
-Email: attribution@planetary-restoration-archive.org
+**License Adaptation Process**
+- Annual review of licensing terms based on user feedback and impact data
+- Community input process for major license updates
+- Grandfather clauses protect existing licensees from adverse changes
+- Transparent decision-making process with stakeholder representation
 
-For Impact Partnership Opportunities:
+**Impact Measurement Integration**
+- Standardized metrics for measuring environmental impact across implementations
+- Annual impact reporting requirements for commercial licensees
+- Public dashboard showing aggregate impact achieved through archive technologies
+- Academic collaboration on impact measurement methodology development
+
+### 8. FUNDING SUSTAINABILITY MECHANISMS
+
+**Archive Development Fund**
+- Percentage of all licensing revenue (20%) directed to continued R&D
+- Transparent allocation process with academic and environmental advisory board
+- Priority funding for innovations addressing critical environmental challenges
+- Public reporting on fund allocation and impact
+
+**Partnership Investment Opportunities**
+- Qualified investors can co-fund specific innovation development tracks
+- Revenue sharing from successful innovations based on investment contribution
+- Advisory roles in innovation priority setting for major contributors
+- Exit mechanisms for investors achieving impact and financial returns
+
+## Contact & Licensing Information
+
+**Commercial Licensing & Partnerships**
 Email: partnerships@planetary-restoration-archive.org
+Include: Organization details, intended use, impact goals, funding capacity
 
-Legal Notice
+**Academic & Research Collaboration**
+Email: research@planetary-restoration-archive.org
+Priority response for academic institutions and research collaborations
 
-Copyright: All innovations in this archive are protected by copyright and other intellectual property laws.
+**Impact Investment & Funding**
+Email: investment@planetary-restoration-archive.org
+For impact investors, philanthropy, and strategic funding partnerships
 
-Warranty Disclaimer: Innovations are provided "AS IS" without warranty. Users assume all risks of implementation.
+**Emergency & Crisis Response**
+Email: emergency@planetary-restoration-archive.org
+24-hour response for environmental crisis implementations
 
-Limitation of Liability: Licensor's liability is limited to the amount paid for licensing fees.
+## Legal Framework
 
-Severability: If any provision is deemed invalid, the remainder of the license remains in effect.
+**Governing Law & Jurisdiction**
+- International copyright and environmental law framework
+- Disputes resolved through mediation, then arbitration if necessary
+- Recognition of Indigenous intellectual property rights and traditional knowledge
+- Compliance with environmental justice principles
 
-"The planet doesn't have time for traditional IP models. But innovation needs funding to scale. This license bridges that gap."
+**Warranties & Liabilities**
+- Limited warranty for documented implementation cases
+- Liability limited to licensing fees paid, except for willful misconduct
+- Indemnification available for certified implementations
+- Insurance requirements for large-scale commercial deployments
 
-Version: 1.0
-Effective Date: [INSERT DATE]
-Last Updated: [INSERT DATE]
+**Future-Proofing Provisions**
+- Automatic updates for improved environmental protection standards
+- Compatibility maintenance with evolving open source license standards
+- Adaptation mechanisms for changing international environmental agreements
 
-Quick Reference
+---
 
-| Use Case | Permission Needed | Typical Fee |
-|----------|-------------------|-------------|
-| Academic Research (Educational Institution) | No | Free |
-| Non-profit Implementation | No | Free |
-| Government Deployment | Yes | $10K-$100K annually |
-| Corporate R&D | Yes | $10K+ annually |
-| Commercial Implementation | Yes | 0.1% of budget + 2% revenue |
-| Open Source Contribution | No | Free (encouraged!) |
+## Quick Reference Guide
+
+| Use Case | License Required | Typical Cost | Revenue Sharing |
+|----------|------------------|--------------|-----------------|
+| Academic Research | No | Free | None |
+| University Tech Transfer | Partnership | $5K-25K/year | 1% on direct commercialization |
+| Non-profit Implementation (<100 hectares) | No | Free | None |
+| Commercial Innovation Partner | Yes | 0.05% of budget | None (preferred partner) |
+| Standard Commercial | Yes | 0.1% of budget | None |
+| Government Large-Scale | Yes | $25K-500K flat fee | None |
+| Emergency Response | No (12 months) | Free | None |
+| Large Corp (>$100M revenue) | Yes | Standard + 0.03% innovation fund | None |
+
+**Impact Thresholds for Open Source Release:**
+- 10,000+ hectares restored
+- 1M+ people benefited
+- 20%+ verified environmental improvement
+- $1M+ cumulative licensing revenue after 5 years
+
+**Version**: 2.0  
+**Effective Date**: July 22, 2025  
+**Last Updated**: July 22, 2025
+
+---
+
+*"The planet needs both innovation and implementation. This license creates sustainable funding for breakthrough research while ensuring rapid deployment of proven solutions."*
